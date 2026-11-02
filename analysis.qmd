@@ -1,5 +1,14 @@
+
 ---
 title: "Crypto Markets"
 author: "Emma Acedo Lapieza"
 format: html
+execute:
+  echo: false
 ---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(arrow)
+```
